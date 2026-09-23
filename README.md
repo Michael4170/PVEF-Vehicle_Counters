@@ -2,6 +2,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 Vehicle counter-attacks designed to work with PVEF - PvE Framework. A crewed USSR vehicle is sent at a base the players are taking, or have just taken.
 
 Built and tested as a PVEF companion, with no hard dependency on it: base game only.

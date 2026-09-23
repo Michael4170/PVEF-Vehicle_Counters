@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="PVEFCore_Banner" src="https://github.com/user-attachments/assets/e2889bc5-297b-4922-b1aa-58b2d6d84110" />
+<img width="1920" height="1080" alt="PVEF_Vehicle_Counters_1920x1080" src="https://github.com/user-attachments/assets/ac27671d-b52e-4b45-be8b-57e20b5eeb04" />
 
 
 Vehicle counter-attacks designed to work with PVEF - PvE Framework. A crewed USSR vehicle is sent at a base the players are taking, or have just taken.

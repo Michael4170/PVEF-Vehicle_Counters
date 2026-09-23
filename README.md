@@ -1,4 +1,4 @@
-<img width="1152" height="648" alt="PVEF_Vehicle_Counters_Workshop" src="https://github.com/user-attachments/assets/49d264f2-6039-4b3d-99df-43b1fe990a1d" />
+<img width="1920" height="1080" alt="PVEF_Vehicle_Counters_Workshop" src="https://github.com/user-attachments/assets/49d264f2-6039-4b3d-99df-43b1fe990a1d" />
 
 
 
